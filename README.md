@@ -10,7 +10,7 @@
 
 ![THS comparison operator](https://user-images.githubusercontent.com/89214854/136459887-f39e1337-34e3-42da-8611-9901268d6edf.png)
 
-    * Nullified THS 9th grade scores
+   * Nullified THS 9th grade scores
      
      - Once we select THS 9th grade, we used the same script to nullify the scores and replace them with NaNs. The reason behide the technique is to take out the effect of the suspected score out of the data and rerun the whole analysis again. The following image shows THS 9th grade math and reading score replaced by NaNs.
 
