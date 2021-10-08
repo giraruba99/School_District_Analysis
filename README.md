@@ -15,9 +15,9 @@
 
 ![Lowest 5 schools](https://user-images.githubusercontent.com/89214854/136460145-717dfe67-e762-47f7-a1fe-fd083dc62ab7.png)
 
-![average math by grade](https://user-images.githubusercontent.com/89214854/136460199-f89c0e60-3d3c-4f0b-a53c-64b506042a53.png)
+![math score by grade](https://user-images.githubusercontent.com/89214854/136619080-081cab34-cdba-4eea-91fe-da7695343a86.png)
 
-![average reading by grade](https://user-images.githubusercontent.com/89214854/136460232-291155df-2ee0-4c66-88d6-4994d75940d5.png)
+![reading score by grade](https://user-images.githubusercontent.com/89214854/136619118-f848ca25-afff-4d33-b8b5-594a16b18ea5.png)
 
 ![per student budget](https://user-images.githubusercontent.com/89214854/136460283-e50ef19b-8144-4a22-aab6-3ff8f19b668c.png)
 
