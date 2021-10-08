@@ -40,9 +40,9 @@
 
    * Math scores by grade
    
-![average math by grade](https://user-images.githubusercontent.com/89214854/136460199-f89c0e60-3d3c-4f0b-a53c-64b506042a53.png)
+![math score by grade](https://user-images.githubusercontent.com/89214854/136619972-b3f269e6-e30b-4157-bd18-f1864a93b6a9.png)
 
-![average reading by grade](https://user-images.githubusercontent.com/89214854/136460232-291155df-2ee0-4c66-88d6-4994d75940d5.png)
+![reading score by grade](https://user-images.githubusercontent.com/89214854/136620029-496a27c7-9f91-4850-bd35-b6afc87fac4e.png)
 
 ![per student budget](https://user-images.githubusercontent.com/89214854/136460283-e50ef19b-8144-4a22-aab6-3ff8f19b668c.png)
 
