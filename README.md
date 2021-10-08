@@ -46,11 +46,11 @@
 
 ![reading score by grade](https://user-images.githubusercontent.com/89214854/136620029-496a27c7-9f91-4850-bd35-b6afc87fac4e.png)
 
-![per student budget](https://user-images.githubusercontent.com/89214854/136460283-e50ef19b-8144-4a22-aab6-3ff8f19b668c.png)
+![spending summary](https://user-images.githubusercontent.com/89214854/136622062-99d81b1e-63bc-471e-ab16-0c7fd8422148.png)
 
-![per school size](https://user-images.githubusercontent.com/89214854/136460395-6229e5b0-31f1-422f-8285-873077003e5c.png)
+![by size summary](https://user-images.githubusercontent.com/89214854/136622103-800ec81e-59a6-4851-8f18-7a4e6447b2b4.png)
 
-![per school type](https://user-images.githubusercontent.com/89214854/136460428-1414b7e0-7523-4e2c-923e-3ca6489bd545.png)
+![by  school type summary](https://user-images.githubusercontent.com/89214854/136622117-b918d36d-2ed8-40d5-abc6-2a559d6e4186.png)
 
 
 
