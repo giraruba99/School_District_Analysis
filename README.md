@@ -42,6 +42,7 @@
 
    * Math scores by grade
      - The image below clearly show there is nothing to report on 9th grade math score for THS
+     
 ![math score by grade](https://user-images.githubusercontent.com/89214854/136619972-b3f269e6-e30b-4157-bd18-f1864a93b6a9.png)
 
    * Reading scores by grade
@@ -49,9 +50,10 @@
 
 ![reading score by grade](https://user-images.githubusercontent.com/89214854/136620029-496a27c7-9f91-4850-bd35-b6afc87fac4e.png)
 
-<<<<<<< HEAD
+
    * Results by student budget
      - The main swing in overall passing range was seen in the range of $630-$644 *. Overall passing rate went down from 62% to 56%.
+     
 ![per student budget](https://user-images.githubusercontent.com/89214854/136460283-e50ef19b-8144-4a22-aab6-3ff8f19b668c.png)
 
    * Results per school size
@@ -63,13 +65,8 @@
     - The overall passing percentage of charter schools went down from 90% to 87%, a clear indication that removing THS 9th grade scores affected the overall passing rate in charter schools.
 
 ![per school type](https://user-images.githubusercontent.com/89214854/136460428-1414b7e0-7523-4e2c-923e-3ca6489bd545.png)
-=======
-![spending summary](https://user-images.githubusercontent.com/89214854/136622062-99d81b1e-63bc-471e-ab16-0c7fd8422148.png)
 
-![by size summary](https://user-images.githubusercontent.com/89214854/136622103-800ec81e-59a6-4851-8f18-7a4e6447b2b4.png)
 
-![by  school type summary](https://user-images.githubusercontent.com/89214854/136622117-b918d36d-2ed8-40d5-abc6-2a559d6e4186.png)
->>>>>>> 7c0d097d53b818488aac7826a2c736e96999ff58
 
 
 
