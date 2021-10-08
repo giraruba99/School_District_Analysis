@@ -67,6 +67,19 @@
 ![per school type](https://user-images.githubusercontent.com/89214854/136460428-1414b7e0-7523-4e2c-923e-3ca6489bd545.png)
 
 
+## Summary and Conclusion
+  * It can be summarized that removing 9th grade scores from THS affected the overall results in areas of the analysis. 
+  * But, we did not find a big evidence to conlude there was an acadamic dishonesty to a level that needs special attention. Because:
+       - Regardless of how great/bad the reading and maths scores are, by replacing them with NaNs we are going to swing the whole analysis anyway.
+       - The method we used is inconclusive to determine the suspected misbehavior of the school.
+       - Thus, we can not conlude there was altered score with the tools at hand
 
+## Recomendations
+   
+   * If we need to continue our adventure of data analysis, and we want to keep looking other factors before we conlude the unethical behavior, we need:
+        - Compare 9th grade scores of THS with other schools, and look how they fare
+        - Looks back 9th  grade score of THS for consecutive years and loom how they fare
+        - Continue monitoting next year how will they fare in relation to other schools and other grades of the same school
+    
 
 
