@@ -78,7 +78,7 @@
    
    * If we need to continue our adventure of data analysis, and we want to keep looking other factors before we conlude the unethical behavior, we need:
         - Compare 9th grade scores of THS with other schools, and look how they fare
-        - Looks back 9th  grade score of THS for consecutive years and loom how they fare
+        - Looks back 9th  grade score of THS for consecutive years and look how they fare
         - Continue monitoting next year how will they fare in relation to other schools and other grades of the same school
     
 
